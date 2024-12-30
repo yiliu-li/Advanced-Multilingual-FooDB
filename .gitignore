@@ -1,3 +1,7 @@
+# Large files
+original_foodb_2020_04_07_json/*.json
+enhanced_foodb/**/*.json
+
 # Logs and temporary files
 *.log
 .DS_Store
@@ -7,4 +11,4 @@ __pycache__/
 # Environment
 .env
 venv/
-.venv/ 
+.venv/
