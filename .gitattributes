@@ -1,3 +1,0 @@
-*.py filter=lfs diff=lfs merge=lfs -text
-enhanced_foodb/**/*.json filter=lfs diff=lfs merge=lfs -text
-original_foodb_2020_04_07_json/*.json filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,14 @@
+# Ignore original large data files
+original_foodb_2020_04_07_json/Content.json
+original_foodb_2020_04_07_json/CompoundOntologyTerm.json
+
+# Logs and temporary files
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.venv/ 
