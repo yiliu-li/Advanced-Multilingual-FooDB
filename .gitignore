@@ -1,6 +1,6 @@
-# Large files
-original_foodb_2020_04_07_json/*.json
-enhanced_foodb/**/*.json
+# Data files
+original_foodb_2020_04_07_json/
+enhanced_foodb/
 
 # Logs and temporary files
 *.log
