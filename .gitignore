@@ -1,7 +1,3 @@
-# Data files
-original_foodb_2020_04_07_json/
-enhanced_foodb/
-
 # Logs and temporary files
 *.log
 .DS_Store
