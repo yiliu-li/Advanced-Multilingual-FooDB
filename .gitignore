@@ -1,6 +1,3 @@
-# Data directories
-enhanced_foodb/
-
 # Logs and temporary files
 *.log
 .DS_Store
