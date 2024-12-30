@@ -1,0 +1,97 @@
+{"id":1,"smpdb_id":"SMP00006","kegg_map_id":"map00350","name":"Tyrosine Metabolism","created_at":"2015-02-23T22:40:48.000Z","updated_at":"2015-02-23T22:40:48.000Z"}
+{"id":2,"smpdb_id":"SMP00068","kegg_map_id":"map00150","name":"Androgen and Estrogen Metabolism","created_at":"2015-02-23T22:40:58.000Z","updated_at":"2015-02-23T22:40:58.000Z"}
+{"id":3,"smpdb_id":"SMP00011","kegg_map_id":"map00562","name":"Inositol Metabolism","created_at":"2015-02-23T22:41:14.000Z","updated_at":"2015-02-23T22:41:14.000Z"}
+{"id":4,"smpdb_id":"SMP00462","kegg_map_id":"map00562","name":"Inositol Phosphate Metabolism","created_at":"2015-02-23T22:41:14.000Z","updated_at":"2015-02-23T22:41:14.000Z"}
+{"id":5,"smpdb_id":"SMP00012","kegg_map_id":"map00350","name":"Catecholamine Biosynthesis","created_at":"2015-02-23T22:42:38.000Z","updated_at":"2015-02-23T22:42:38.000Z"}
+{"id":6,"smpdb_id":"SMP00008","kegg_map_id":"map00360","name":"Phenylalanine and Tyrosine Metabolism","created_at":"2015-02-23T22:42:38.000Z","updated_at":"2015-02-23T22:42:38.000Z"}
+{"id":7,"smpdb_id":"SMP00019","kegg_map_id":"","name":"Transcription/Translation","created_at":"2015-02-23T22:42:38.000Z","updated_at":"2015-02-23T22:42:38.000Z"}
+{"id":8,"smpdb_id":"SMP00028","kegg_map_id":"map00232","name":"Caffeine Metabolism","created_at":"2015-02-23T22:42:49.000Z","updated_at":"2015-02-23T22:42:49.000Z"}
+{"id":9,"smpdb_id":"SMP00037","kegg_map_id":"map00310","name":"Lysine Degradation","created_at":"2015-02-23T22:42:58.000Z","updated_at":"2015-02-23T22:42:58.000Z"}
+{"id":10,"smpdb_id":"SMP00016","kegg_map_id":"map00640","name":"Propanoate Metabolism","created_at":"2015-02-23T22:43:04.000Z","updated_at":"2015-02-23T22:43:04.000Z"}
+{"id":11,"smpdb_id":"SMP00032","kegg_map_id":"map00280","name":"Valine, Leucine and Isoleucine Degradation","created_at":"2015-02-23T22:43:04.000Z","updated_at":"2015-02-23T22:43:04.000Z"}
+{"id":12,"smpdb_id":"SMP00066","kegg_map_id":"map00780","name":"Biotin Metabolism","created_at":"2015-02-23T22:43:17.000Z","updated_at":"2015-02-23T22:43:17.000Z"}
+{"id":13,"smpdb_id":"SMP00465","kegg_map_id":"","name":"Carnitine Synthesis","created_at":"2015-02-23T22:43:17.000Z","updated_at":"2015-02-23T22:43:17.000Z"}
+{"id":14,"smpdb_id":"SMP00055","kegg_map_id":"map00250","name":"Alanine Metabolism","created_at":"2015-02-23T22:43:32.000Z","updated_at":"2015-02-23T22:43:32.000Z"}
+{"id":15,"smpdb_id":"SMP00009","kegg_map_id":"map00910","name":"Ammonia Recycling","created_at":"2015-02-23T22:43:32.000Z","updated_at":"2015-02-23T22:43:32.000Z"}
+{"id":16,"smpdb_id":"SMP00035","kegg_map_id":"map00120","name":"Bile Acid Biosynthesis","created_at":"2015-02-23T22:43:32.000Z","updated_at":"2015-02-23T22:43:32.000Z"}
+{"id":17,"smpdb_id":"SMP00015","kegg_map_id":"map00480","name":"Glutathione Metabolism","created_at":"2015-02-23T22:43:32.000Z","updated_at":"2015-02-23T22:43:32.000Z"}
+{"id":18,"smpdb_id":"SMP00004","kegg_map_id":"map00260","name":"Glycine and Serine Metabolism","created_at":"2015-02-23T22:43:32.000Z","updated_at":"2015-02-23T22:43:32.000Z"}
+{"id":19,"smpdb_id":"SMP00033","kegg_map_id":"map00270","name":"Methionine Metabolism","created_at":"2015-02-23T22:43:32.000Z","updated_at":"2015-02-23T22:43:32.000Z"}
+{"id":20,"smpdb_id":"SMP00024","kegg_map_id":"map00860","name":"Porphyrin Metabolism","created_at":"2015-02-23T22:43:32.000Z","updated_at":"2015-02-23T22:43:32.000Z"}
+{"id":21,"smpdb_id":"SMP00007","kegg_map_id":"map00410","name":"Beta-Alanine Metabolism","created_at":"2015-02-23T22:44:19.000Z","updated_at":"2015-02-23T22:44:19.000Z"}
+{"id":22,"smpdb_id":"SMP00044","kegg_map_id":"map00340","name":"Histidine Metabolism","created_at":"2015-02-23T22:44:19.000Z","updated_at":"2015-02-23T22:44:19.000Z"}
+{"id":23,"smpdb_id":"SMP00127","kegg_map_id":"","name":"Glucose-Alanine Cycle","created_at":"2015-02-23T22:45:10.000Z","updated_at":"2015-02-23T22:45:10.000Z"}
+{"id":24,"smpdb_id":"SMP00029","kegg_map_id":"map00450","name":"Selenoamino Acid Metabolism","created_at":"2015-02-23T22:45:11.000Z","updated_at":"2015-02-23T22:45:11.000Z"}
+{"id":25,"smpdb_id":"SMP00059","kegg_map_id":"map00330","name":"Urea Cycle","created_at":"2015-02-23T22:45:11.000Z","updated_at":"2015-02-23T22:45:11.000Z"}
+{"id":26,"smpdb_id":"SMP00020","kegg_map_id":"map00330","name":"Arginine and Proline Metabolism","created_at":"2015-02-23T22:45:31.000Z","updated_at":"2015-02-23T22:45:31.000Z"}
+{"id":27,"smpdb_id":"SMP00052","kegg_map_id":"map01040","name":"Beta Oxidation of Very Long Chain Fatty Acids","created_at":"2015-02-23T22:45:35.000Z","updated_at":"2015-02-23T22:45:35.000Z"}
+{"id":28,"smpdb_id":"SMP00482","kegg_map_id":"","name":"Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids","created_at":"2015-02-23T22:45:35.000Z","updated_at":"2015-02-23T22:45:35.000Z"}
+{"id":29,"smpdb_id":"SMP00480","kegg_map_id":"","name":"Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids","created_at":"2015-02-23T22:45:35.000Z","updated_at":"2015-02-23T22:45:35.000Z"}
+{"id":30,"smpdb_id":"SMP00030","kegg_map_id":"","name":"Oxidation of Branched Chain Fatty Acids","created_at":"2015-02-23T22:45:35.000Z","updated_at":"2015-02-23T22:45:35.000Z"}
+{"id":31,"smpdb_id":"SMP00017","kegg_map_id":"map00750","name":"Vitamin B6 Metabolism","created_at":"2015-02-23T22:45:38.000Z","updated_at":"2015-02-23T22:45:38.000Z"}
+{"id":32,"smpdb_id":"SMP00043","kegg_map_id":"map00052","name":"Galactose Metabolism","created_at":"2015-02-23T22:47:16.000Z","updated_at":"2015-02-23T22:47:16.000Z"}
+{"id":33,"smpdb_id":"SMP00123","kegg_map_id":"map00260","name":"Betaine Metabolism","created_at":"2015-02-23T22:48:28.000Z","updated_at":"2015-02-23T22:48:28.000Z"}
+{"id":34,"smpdb_id":"SMP00025","kegg_map_id":"map00564","name":"Phospholipid Biosynthesis","created_at":"2015-02-23T22:48:28.000Z","updated_at":"2015-02-23T22:48:28.000Z"}
+{"id":35,"smpdb_id":"SMP00449","kegg_map_id":"","name":"Ethanol Degradation","created_at":"2015-02-23T22:49:25.000Z","updated_at":"2015-02-23T22:49:25.000Z"}
+{"id":36,"smpdb_id":"SMP00039","kegg_map_id":"map00561","name":"Glycerolipid Metabolism","created_at":"2015-02-23T22:49:33.000Z","updated_at":"2015-02-23T22:49:33.000Z"}
+{"id":37,"smpdb_id":"SMP00067","kegg_map_id":"map00250","name":"Aspartate Metabolism","created_at":"2015-02-23T22:50:30.000Z","updated_at":"2015-02-23T22:50:30.000Z"}
+{"id":38,"smpdb_id":"SMP00083","kegg_map_id":"","name":"Acetylsalicylic Acid Pathway","created_at":"2015-02-23T22:53:02.000Z","updated_at":"2015-02-23T22:53:02.000Z"}
+{"id":39,"smpdb_id":"SMP00063","kegg_map_id":"map00380","name":"Tryptophan Metabolism","created_at":"2015-02-23T22:53:07.000Z","updated_at":"2015-02-23T22:53:07.000Z"}
+{"id":40,"smpdb_id":"SMP00115","kegg_map_id":"","name":"Furosemide Pathway","created_at":"2015-02-23T22:54:42.000Z","updated_at":"2015-02-23T22:54:42.000Z"}
+{"id":41,"smpdb_id":"SMP00048","kegg_map_id":"map00760","name":"Nicotinate and Nicotinamide Metabolism","created_at":"2015-02-23T22:55:47.000Z","updated_at":"2015-02-23T22:55:47.000Z"}
+{"id":42,"smpdb_id":"SMP00057","kegg_map_id":"map00020","name":"Citric Acid Cycle","created_at":"2015-02-23T22:56:31.000Z","updated_at":"2015-02-23T22:56:31.000Z"}
+{"id":43,"smpdb_id":"SMP00060","kegg_map_id":"map00620","name":"Pyruvate Metabolism","created_at":"2015-02-23T22:56:31.000Z","updated_at":"2015-02-23T22:56:31.000Z"}
+{"id":44,"smpdb_id":"SMP00466","kegg_map_id":"","name":"Transfer of Acetyl Groups into Mitochondria","created_at":"2015-02-23T22:56:31.000Z","updated_at":"2015-02-23T22:56:31.000Z"}
+{"id":45,"smpdb_id":"SMP00456","kegg_map_id":"","name":"Fatty Acid Biosynthesis","created_at":"2015-02-23T22:57:16.000Z","updated_at":"2015-02-23T22:57:16.000Z"}
+{"id":46,"smpdb_id":"SMP00467","kegg_map_id":"","name":"Trehalose Degradation","created_at":"2015-02-23T22:57:46.000Z","updated_at":"2015-02-23T22:57:46.000Z"}
+{"id":47,"smpdb_id":"SMP00058","kegg_map_id":"map00500","name":"Starch and Sucrose Metabolism","created_at":"2015-02-23T22:58:07.000Z","updated_at":"2015-02-23T22:58:07.000Z"}
+{"id":48,"smpdb_id":"SMP00457","kegg_map_id":"","name":"Lactose Degradation","created_at":"2015-02-23T22:58:28.000Z","updated_at":"2015-02-23T22:58:28.000Z"}
+{"id":49,"smpdb_id":"SMP00444","kegg_map_id":"","name":"Lactose Synthesis","created_at":"2015-02-23T22:58:28.000Z","updated_at":"2015-02-23T22:58:28.000Z"}
+{"id":50,"smpdb_id":"SMP00010","kegg_map_id":"map00520","name":"Nucleotide Sugars Metabolism","created_at":"2015-02-23T22:58:49.000Z","updated_at":"2015-02-23T22:58:49.000Z"}
+{"id":51,"smpdb_id":"SMP00064","kegg_map_id":"map00051","name":"Fructose and Mannose Degradation","created_at":"2015-02-23T22:59:39.000Z","updated_at":"2015-02-23T22:59:39.000Z"}
+{"id":52,"smpdb_id":"SMP00128","kegg_map_id":"map00010","name":"Gluconeogenesis","created_at":"2015-02-23T23:01:34.000Z","updated_at":"2015-02-23T23:01:34.000Z"}
+{"id":53,"smpdb_id":"SMP00040","kegg_map_id":"map00010","name":"Glycolysis","created_at":"2015-02-23T23:01:34.000Z","updated_at":"2015-02-23T23:01:34.000Z"}
+{"id":54,"smpdb_id":"SMP00075","kegg_map_id":"map00590","name":"Arachidonic Acid Metabolism","created_at":"2015-02-23T23:01:35.000Z","updated_at":"2015-02-23T23:01:35.000Z"}
+{"id":55,"smpdb_id":"SMP00045","kegg_map_id":"map00520","name":"Amino Sugar Metabolism","created_at":"2015-02-23T23:01:38.000Z","updated_at":"2015-02-23T23:01:38.000Z"}
+{"id":56,"smpdb_id":"SMP00023","kegg_map_id":"map00100","name":"Steroid Biosynthesis","created_at":"2015-02-23T23:01:41.000Z","updated_at":"2015-02-23T23:01:41.000Z"}
+{"id":57,"smpdb_id":"SMP00129","kegg_map_id":"","name":"Malate-Aspartate Shuttle","created_at":"2015-02-23T23:01:52.000Z","updated_at":"2015-02-23T23:01:52.000Z"}
+{"id":58,"smpdb_id":"SMP00455","kegg_map_id":"","name":"Homocysteine Degradation","created_at":"2015-02-23T23:01:55.000Z","updated_at":"2015-02-23T23:01:55.000Z"}
+{"id":59,"smpdb_id":"SMP00445","kegg_map_id":"","name":"Spermidine and Spermine Biosynthesis","created_at":"2015-02-23T23:01:58.000Z","updated_at":"2015-02-23T23:01:58.000Z"}
+{"id":60,"smpdb_id":"SMP00050","kegg_map_id":"map00230","name":"Purine Metabolism","created_at":"2015-02-23T23:02:01.000Z","updated_at":"2015-02-23T23:02:01.000Z"}
+{"id":61,"smpdb_id":"SMP00070","kegg_map_id":"map00740","name":"Riboflavin Metabolism","created_at":"2015-02-23T23:03:16.000Z","updated_at":"2015-02-23T23:03:16.000Z"}
+{"id":62,"smpdb_id":"SMP00046","kegg_map_id":"map00240","name":"Pyrimidine Metabolism","created_at":"2015-02-23T23:06:56.000Z","updated_at":"2015-02-23T23:06:56.000Z"}
+{"id":63,"smpdb_id":"SMP00293","kegg_map_id":"","name":"Oxytetracycline Pathway","created_at":"2015-02-23T23:09:03.000Z","updated_at":"2015-02-23T23:09:03.000Z"}
+{"id":64,"smpdb_id":"SMP00479","kegg_map_id":"","name":"Plasmalogen Synthesis","created_at":"2015-02-23T23:17:23.000Z","updated_at":"2015-02-23T23:17:23.000Z"}
+{"id":65,"smpdb_id":"SMP00018","kegg_map_id":"map00592","name":"Alpha Linolenic Acid and Linoleic Acid Metabolism","created_at":"2015-02-23T23:17:26.000Z","updated_at":"2015-02-23T23:17:26.000Z"}
+{"id":66,"smpdb_id":"SMP00481","kegg_map_id":"","name":"Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids","created_at":"2015-02-23T23:18:37.000Z","updated_at":"2015-02-23T23:18:37.000Z"}
+{"id":67,"smpdb_id":"SMP00021","kegg_map_id":"map00430","name":"Taurine and Hypotaurine Metabolism","created_at":"2015-02-23T23:21:32.000Z","updated_at":"2015-02-23T23:21:32.000Z"}
+{"id":68,"smpdb_id":"SMP00355","kegg_map_id":"map00190","name":"Mitochondrial Electron Transport Chain","created_at":"2015-02-23T23:23:44.000Z","updated_at":"2015-02-23T23:23:44.000Z"}
+{"id":69,"smpdb_id":"SMP00459","kegg_map_id":"","name":"Pyruvaldehyde Degradation","created_at":"2015-02-23T23:23:46.000Z","updated_at":"2015-02-23T23:23:46.000Z"}
+{"id":70,"smpdb_id":"SMP00452","kegg_map_id":"","name":"Threonine and 2-Oxobutanoate Degradation","created_at":"2015-02-23T23:24:56.000Z","updated_at":"2015-02-23T23:24:56.000Z"}
+{"id":71,"smpdb_id":"SMP00072","kegg_map_id":"map00250","name":"Glutamate Metabolism","created_at":"2015-02-23T23:25:02.000Z","updated_at":"2015-02-23T23:25:02.000Z"}
+{"id":72,"smpdb_id":"SMP00450","kegg_map_id":"","name":"Phytanic Acid Peroxisomal Oxidation","created_at":"2015-02-23T23:25:02.000Z","updated_at":"2015-02-23T23:25:02.000Z"}
+{"id":73,"smpdb_id":"SMP00013","kegg_map_id":"map00270","name":"Cysteine Metabolism","created_at":"2015-02-23T23:28:03.000Z","updated_at":"2015-02-23T23:28:03.000Z"}
+{"id":74,"smpdb_id":"SMP00036","kegg_map_id":"map00472","name":"D-Arginine and D-Ornithine Metabolism","created_at":"2015-02-23T23:28:47.000Z","updated_at":"2015-02-23T23:28:47.000Z"}
+{"id":75,"smpdb_id":"SMP00053","kegg_map_id":"map00670","name":"Folate Metabolism","created_at":"2015-02-23T23:28:47.000Z","updated_at":"2015-02-23T23:28:47.000Z"}
+{"id":76,"smpdb_id":"SMP00431","kegg_map_id":"","name":"Nicotine Pathway","created_at":"2015-02-23T23:28:53.000Z","updated_at":"2015-02-23T23:28:53.000Z"}
+{"id":77,"smpdb_id":"SMP00071","kegg_map_id":"map00072","name":"Ketone Body Metabolism","created_at":"2015-02-23T23:36:34.000Z","updated_at":"2015-02-23T23:36:34.000Z"}
+{"id":78,"smpdb_id":"SMP00076","kegg_map_id":"map00730","name":"Thiamine Metabolism","created_at":"2015-02-23T23:38:49.000Z","updated_at":"2015-02-23T23:38:49.000Z"}
+{"id":79,"smpdb_id":"SMP00027","kegg_map_id":"map00770","name":"Pantothenate and CoA Biosynthesis","created_at":"2015-02-23T23:38:57.000Z","updated_at":"2015-02-23T23:38:57.000Z"}
+{"id":80,"smpdb_id":"SMP00065","kegg_map_id":"map00130","name":"Ubiquinone Biosynthesis","created_at":"2015-02-23T23:52:16.000Z","updated_at":"2015-02-23T23:52:16.000Z"}
+{"id":81,"smpdb_id":"SMP00463","kegg_map_id":"map00562","name":"Phosphatidylinositol Phosphate Metabolism","created_at":"2015-02-23T23:53:24.000Z","updated_at":"2015-02-23T23:53:24.000Z"}
+{"id":82,"smpdb_id":"SMP00031","kegg_map_id":"map00030","name":"Pentose Phosphate Pathway","created_at":"2015-02-24T00:06:45.000Z","updated_at":"2015-02-24T00:06:45.000Z"}
+{"id":83,"smpdb_id":"SMP00054","kegg_map_id":"map00062","name":"Fatty Acid Elongation In Mitochondria","created_at":"2015-02-24T00:16:16.000Z","updated_at":"2015-02-24T00:16:16.000Z"}
+{"id":84,"smpdb_id":"SMP00051","kegg_map_id":"map00071","name":"Fatty acid Metabolism","created_at":"2015-02-24T00:16:17.000Z","updated_at":"2015-02-24T00:16:17.000Z"}
+{"id":85,"smpdb_id":"SMP00074","kegg_map_id":"map00830","name":"Retinol Metabolism","created_at":"2015-02-24T00:17:55.000Z","updated_at":"2015-02-24T00:17:55.000Z"}
+{"id":86,"smpdb_id":"SMP00073","kegg_map_id":"map00650","name":"Butyrate Metabolism","created_at":"2015-02-24T00:22:45.000Z","updated_at":"2015-02-24T00:22:45.000Z"}
+{"id":87,"smpdb_id":"SMP00405","kegg_map_id":"","name":"Codeine Pathway","created_at":"2015-02-24T00:24:47.000Z","updated_at":"2015-02-24T00:24:47.000Z"}
+{"id":88,"smpdb_id":"SMP00126","kegg_map_id":"map00360","name":"Phenylacetate Metabolism","created_at":"2015-02-24T00:24:53.000Z","updated_at":"2015-02-24T00:24:53.000Z"}
+{"id":89,"smpdb_id":"SMP00464","kegg_map_id":"","name":"Vitamin K Metabolism","created_at":"2015-02-24T00:28:42.000Z","updated_at":"2015-02-24T00:28:42.000Z"}
+{"id":90,"smpdb_id":"SMP00270","kegg_map_id":"","name":"Dicumarol Pathway","created_at":"2015-02-24T00:32:22.000Z","updated_at":"2015-02-24T00:32:22.000Z"}
+{"id":91,"smpdb_id":"SMP00034","kegg_map_id":"map00500","name":"Sphingolipid Metabolism","created_at":"2015-02-24T00:37:00.000Z","updated_at":"2015-02-24T00:37:00.000Z"}
+{"id":92,"smpdb_id":"SMP00041","kegg_map_id":"map00920","name":"Sulfate/Sulfite Metabolism","created_at":"2015-02-24T00:37:53.000Z","updated_at":"2015-02-24T00:37:53.000Z"}
+{"id":93,"smpdb_id":"SMP00005","kegg_map_id":"map00790","name":"Pterine Biosynthesis","created_at":"2015-02-24T00:38:03.000Z","updated_at":"2015-02-24T00:38:03.000Z"}
+{"id":94,"smpdb_id":"SMP00477","kegg_map_id":"","name":"DNA Replication Fork","created_at":"2015-02-24T00:38:41.000Z","updated_at":"2015-02-24T00:38:41.000Z"}
+{"id":95,"smpdb_id":"SMP00130","kegg_map_id":"map00140","name":"Steroidogenesis","created_at":"2015-02-24T00:42:36.000Z","updated_at":"2015-02-24T00:42:36.000Z"}
+{"id":96,"smpdb_id":"SMP00468","kegg_map_id":"","name":"Degradation of Superoxides","created_at":"2015-02-24T00:43:56.000Z","updated_at":"2015-02-24T00:43:56.000Z"}
+{"id":97,"smpdb_id":"SMP00124","kegg_map_id":"","name":"Glycerol Phosphate Shuttle","created_at":"2015-02-24T22:29:37.000Z","updated_at":"2015-02-24T22:29:37.000Z"}
